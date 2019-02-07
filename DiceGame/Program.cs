@@ -10,6 +10,13 @@ namespace DiceGame
     {
         static void Main(string[] args)
         {
+
+            Joueur Baldur = new Joueur("Baldur", false);    // Joueur humain
+            Joueur Odin = new Joueur("Odin", true);         // Joueur IA
+
+
+
+       
         }
     }
 }
